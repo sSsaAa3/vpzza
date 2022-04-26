@@ -1,0 +1,23 @@
+*{
+margin:4;
+padding:9;
+}
+
+
+
+h1 {
+text-align: center;
+color: green;
+}
+
+
+
+body{
+background:#04B4AE;
+}
+
+
+
+p{
+color:firebrick;
+}
